@@ -3,5 +3,9 @@
 {{=BEAUTIFY(response._vars)}}
 
 <div class="alert alert-success">
+  <strong>Success2!</strong> Indicates a successful or positive action.
+</div>
+
+<div class="alert alert-success">
   <strong>Success!</strong> Indicates a successful or positive action.
 </div>
