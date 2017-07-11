@@ -3,6 +3,11 @@
 {{=BEAUTIFY(response._vars)}}
 
 
+<h3>
+    modificación de prueba 
+</h3>
+<h1>Está es la plantilla test/test1.html</h1>
+<h1>Está es la plantilla test/test1.html</h1>
 
 <div class="alert alert-success">
   <strong>Success!</strong> Indicates a successful or positive action.
